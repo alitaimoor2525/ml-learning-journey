@@ -25,6 +25,10 @@ and understood — not just copied.
 
 ## 📚 Curriculum Progress
 
+### 🔰 Fundamentals
+- [x] Types of Variables in Machine Learning
+- [x] Handling Missing Categorical Values (Mode)
+
 ### ✅ Supervised Learning
 - [x] Linear Regression
 - [x] Logistic Regression
@@ -87,7 +91,7 @@ ml-learning-journey/
 > Mastering Machine Learning & AI to become a 
 > professional AI Engineer — one commit at a time.
 
-Currently pursuing AI internships at:
+Currently working as AI Intern at:
 - 🏢 **CodeAlpha** — AI Intern (June 2026)
 - 🏢 **Hex Softwares Pvt. Ltd.** — AI Intern (June 2026)
 
@@ -96,7 +100,7 @@ Currently pursuing AI internships at:
 ## 🚀 Related Projects
 
 - 💳 [NovaPay](https://github.com/alitaimoor2525/novapay-fintech-app) — FinTech app with Gemini AI
-- 🔧 Fixly — AI-powered marketplace (Coming Soon)
+- 🔧 [Fixly](https://github.com/alitaimoor2525/fixly-ai-marketplace) — AI-powered marketplace
 - 🏠 House Price Prediction — ML model deployed via Flask
 
 ---
